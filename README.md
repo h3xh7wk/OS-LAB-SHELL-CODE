@@ -4,7 +4,7 @@ This repository contains 10 shell script programs. Each script focuses on a spec
 
 ---
 
-## 📚 Experiment List (Ordered by Difficulty)
+## 📚 Experiment List
 
 | No. | Program Name                          | Description |
 |-----|---------------------------------------|-------------|
